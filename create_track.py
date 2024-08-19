@@ -16,3 +16,5 @@ def positive_assert():
 
 def test_order():
     positive_assert()
+
+# Юрий Куклин, 20-я когорта — Финальный проект. Инженер по тестированию плюс
